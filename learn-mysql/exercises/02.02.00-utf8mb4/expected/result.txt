@@ -1,0 +1,6 @@
+COLUMN_NAME	CHARACTER_SET_NAME	COLLATION_NAME
+review_id	NULL	NULL
+order_no	utf8mb4	utf8mb4_unicode_ci
+user_id	NULL	NULL
+sku_code	utf8mb4	utf8mb4_bin
+review_text	utf8mb4	utf8mb4_unicode_ci

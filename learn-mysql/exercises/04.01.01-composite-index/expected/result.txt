@@ -1,0 +1,4 @@
+INDEX_NAME	SEQ_IN_INDEX	COLUMN_NAME	NON_UNIQUE
+idx_order_items_product_order_quantity	1	product_id	1
+idx_order_items_product_order_quantity	2	order_id	1
+idx_order_items_product_order_quantity	3	quantity	1

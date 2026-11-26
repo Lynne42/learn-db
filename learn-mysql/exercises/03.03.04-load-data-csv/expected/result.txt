@@ -1,0 +1,4 @@
+username	email	status
+csv_user1	csv1@order.com	1
+csv_user2	csv2@order.com	1
+csv_user3	csv3@order.com	0

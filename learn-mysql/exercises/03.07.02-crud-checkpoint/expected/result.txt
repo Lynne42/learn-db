@@ -1,0 +1,2 @@
+order_no	status	stock	item_count	total_quantity
+ORD-CRUD-NEW	PAID	7	1	3

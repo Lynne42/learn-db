@@ -1,0 +1,3 @@
+-- TODO: 请编写一条商品 JSON 属性查询。
+-- 返回列依次为：id、name、color、is_wireless、warranty_months。
+-- 必须使用 ->>、JSON_CONTAINS、JSON_SET、JSON_EXTRACT、JSON_UNQUOTE，并按 id 升序排序。

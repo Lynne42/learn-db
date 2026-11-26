@@ -1,0 +1,24 @@
+services:
+  postgres-learn:
+    image: postgres:18.7
+    container_name: postgres-learn
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root123
+      POSTGRES_DB: order_system
+      PGDATA: /var/lib/postgresql/18/docker
+      TZ: Asia/Shanghai
+    ports:
+      - "15432:5432"
+    volumes:
+      - ./data/postgres:/var/lib/postgresql
+    command:
+      - postgres
+      - -c
+      - timezone=Asia/Shanghai
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d order_system"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped

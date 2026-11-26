@@ -1,0 +1,7 @@
+category_id	category_name	parent_name
+1	Electronics	NULL
+2	Computers	Electronics
+3	Laptops	Computers
+4	Phones	Electronics
+5	Home	NULL
+6	Kitchen	Home

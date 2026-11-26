@@ -1,0 +1,5 @@
+Field	Type	Null	Key	Default	Extra
+id	bigint unsigned	NO	PRI	NULL	auto_increment
+product_name	varchar(100)	NO		NULL	
+specs	json	NO		NULL	
+ext_attrs	json	YES		NULL	

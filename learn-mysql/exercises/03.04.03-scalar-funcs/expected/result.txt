@@ -1,0 +1,4 @@
+id	user_label	distance_score	registered_date	days_from_anchor
+1	alice#5	1.00	2026-06-28	3
+2	bob#3	0.67	2026-07-03	2
+3	carol#5	0.33	2026-07-01	0

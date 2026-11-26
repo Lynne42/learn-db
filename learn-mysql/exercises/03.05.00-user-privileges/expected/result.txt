@@ -1,0 +1,3 @@
+Grants for order_reporter_030500@%
+GRANT USAGE ON *.* TO `order_reporter_030500`@`%`
+GRANT SELECT ON `order_system_lesson_030500`.* TO `order_reporter_030500`@`%`

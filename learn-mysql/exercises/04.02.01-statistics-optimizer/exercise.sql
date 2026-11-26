@@ -1,0 +1,2 @@
+-- TODO: 先刷新 orders 的普通统计信息，再用 EXPLAIN 观察 PAID 订单查询计划。
+-- 查询返回 id、status、created_at，并按 created_at 升序排列。

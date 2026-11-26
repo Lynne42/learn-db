@@ -1,0 +1,4 @@
+id	display_name	status_label	numeric_score	result_label
+1	alice	ACTIVE	88	PASS
+2	Bobby	DISABLED	59	FAIL
+3	carol	ACTIVE	72	PASS

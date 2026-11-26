@@ -1,0 +1,6 @@
+Field	Type	Null	Key	Default	Extra
+id	bigint unsigned	NO	PRI	NULL	auto_increment
+order_no	char(20)	NO		NULL	
+user_birthday	date	YES		NULL	
+order_created_at	timestamp	NO		CURRENT_TIMESTAMP	DEFAULT_GENERATED
+last_status_updated_at	timestamp	NO		CURRENT_TIMESTAMP	DEFAULT_GENERATED on update CURRENT_TIMESTAMP

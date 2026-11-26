@@ -1,0 +1,5 @@
+user_id	username	role_name
+1	alice	admin
+1	alice	customer
+3	carol	auditor
+4	dave	NULL

@@ -2,3 +2,5 @@
 .DS_Store
 
 node_modules
+/learn-mysql/data/
+/learn-postgres/data/

@@ -1,0 +1,4 @@
+id	name	color	is_wireless	warranty_months
+1	Mechanical Keyboard	black	1	24
+2	Gaming Mouse	white	0	24
+3	USB-C Headset	black	1	24

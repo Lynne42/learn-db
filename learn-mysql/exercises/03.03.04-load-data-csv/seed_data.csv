@@ -1,0 +1,4 @@
+username,email,password_hash,status
+csv_user1,csv1@order.com,pwd_hash1,1
+csv_user2,csv2@order.com,pwd_hash2,1
+csv_user3,csv3@order.com,pwd_hash3,0

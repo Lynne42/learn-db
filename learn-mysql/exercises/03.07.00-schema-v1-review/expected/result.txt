@@ -1,0 +1,6 @@
+table_name	column_name	referenced_table_name	referenced_column_name
+categories	parent_id	categories	id
+order_items	order_id	orders	id
+order_items	product_id	products	id
+orders	user_id	users	id
+products	category_id	categories	id

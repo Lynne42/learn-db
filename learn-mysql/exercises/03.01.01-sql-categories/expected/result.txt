@@ -1,0 +1,6 @@
+category	example_statement
+DCL	GRANT
+DDL	CREATE TABLE
+DML	INSERT INTO
+DQL	SELECT
+TCL	COMMIT

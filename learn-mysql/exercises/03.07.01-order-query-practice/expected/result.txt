@@ -1,0 +1,5 @@
+order_no	username	product_name	quantity	unit_price	line_amount
+ORD-PROJ-002	bob	机械键盘	1	200.00	200.00
+user_id	username	order_count	total_spent
+1	alice	1	100.00
+2	bob	1	200.00

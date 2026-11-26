@@ -1,0 +1,2 @@
+INDEX_NAME	COLUMN_NAME	NON_UNIQUE
+idx_users_created_at	created_at	1

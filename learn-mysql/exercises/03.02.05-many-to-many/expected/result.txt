@@ -1,0 +1,7 @@
+COLUMN_NAME	REFERENCED_TABLE_NAME	REFERENCED_COLUMN_NAME
+role_id	roles	id
+user_id	users	id
+INDEX_NAME	COLUMN_NAME	NON_UNIQUE
+PRIMARY	user_id	0
+PRIMARY	role_id	0
+idx_user_roles_role_id	role_id	1

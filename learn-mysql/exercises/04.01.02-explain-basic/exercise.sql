@@ -1,0 +1,2 @@
+-- TODO: 使用标准 EXPLAIN 验证目标复合覆盖索引。
+-- 查询 order_items 中 product_id = 401 的 order_id、quantity，并按 order_id 排序。

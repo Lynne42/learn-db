@@ -1,0 +1,11 @@
+{
+  "db_name": "postgres",
+  "project_name": "learn-postgres",
+  "current_section": "01-prerequisite",
+  "current_module": "01.01",
+  "current_lesson": null,
+  "schema_version": 0,
+  "created_at": "2026-11-16T00:00:00+08:00",
+  "last_activity_at": "2026-11-16T00:00:00+08:00",
+  "progress": {}
+}

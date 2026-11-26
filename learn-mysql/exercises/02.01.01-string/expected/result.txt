@@ -1,0 +1,6 @@
+Field	Type	Null	Key	Default	Extra
+id	int unsigned	NO	PRI	NULL	auto_increment
+spu_no	char(12)	NO		NULL	
+preview_title	varchar(150)	NO		NULL	
+detail_desc	text	YES		NULL	
+product_type	enum('PHYSICAL','DIGITAL','VIRTUAL')	NO		PHYSICAL	
