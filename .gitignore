@@ -4,3 +4,6 @@
 node_modules
 /learn-mysql/data/
 /learn-postgres/data/
+/learn-mysql/exercises/*/actual_result.txt
+/learn-mysql/exercises/*/raw_actual.txt
+/learn-mysql/exercises/*/error.log
